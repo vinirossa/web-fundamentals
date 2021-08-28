@@ -1,0 +1,29 @@
+/* Modelo de Caixa */
+
+.conteudo {
+    border: 1px solid red;
+    /* 
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px; 
+    padding: 20px 15px 10px 5px;
+    */
+    padding: 20px 5px;
+    margin-bottom: 10px;
+    width: 150px;
+}
+
+/**/
+
+/* h1 {
+    color: blue;
+} */
+
+.titulo-dois h1 {
+    color: yellow;
+}
+
+h1.titulo3 {
+    color: green;
+}
